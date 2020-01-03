@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="product_code">Ürün Kodu : </string>
+    <string name="discount">İndirim</string>
+    <string name="add_to_cart">Sepete ekle</string>
+    <string name="product_description">Ürün Açıklamaları</string>
+    <string name="product_document">Teknik Özellikler</string>
+    <string name="comments">Yorumlar</string>
+    <string name="payment_method">Ödeme Seçenekleri</string>
+    <string name="installment_list" tools:ignore="ExtraTranslation">Taksik Listesi</string>
+    <string name="similar_products">Benzer ürünler</string>
+    <string name="select">Seç</string>
+    <string name="vat">KDV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

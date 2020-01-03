@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProductDetailView">
+        <attr name="url" format="string" />
+        <attr name="token" format="string" />
+        <attr name="product_id" format="string" />
+        <attr name="custom_view" format="reference" />
+        <attr name="loading_view" format="reference" />
+        <attr name="empty_view" format="reference" />
+    </declare-styleable>
+</resources>
