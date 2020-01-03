@@ -1,0 +1,3 @@
+rootProject.name='E-Commerce Product Detail'
+include ':app'
+include ':productdetail'
